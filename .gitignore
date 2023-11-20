@@ -1,0 +1,13 @@
+# misc
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+*.pem
+.idea
+Thumbs.db
+
+# macOS
+.DS_Store
